@@ -1,0 +1,10 @@
+.titleCard {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.tableFiles {
+  margin: 25px;
+}
